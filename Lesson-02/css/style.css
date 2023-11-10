@@ -1,0 +1,38 @@
+/* Universal selector, actually selects all elements (not inheritance like when we apply rules to the body) 
+
+typically only used for CSS resets */
+* {
+}
+
+body {
+  font-size: 22px;
+}
+
+main {
+  font-family: monospace;
+}
+
+button, input, textarea, select {
+  font: inherit;
+}
+
+h1, h2 {
+  color: blue;
+}
+
+p {
+  color: purple
+}
+
+.highlight {
+  text-transform: uppercase;
+  background: gold;
+}
+
+.gray {
+  color: gray;
+}
+
+#second {
+  font-style: italic;
+}
