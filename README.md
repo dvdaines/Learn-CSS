@@ -2,7 +2,8 @@
 
 I am using this repo to save my work as I brush up on CSS by following [this 11 hour course](https://youtu.be/OXGznpKZ_sA?si=jUk0oBv8MgliTzwO) from [freeCodeCamp](https://www.freecodecamp.org/).
 
-**Note: if you just read the code, you'll miss a lot. It goes through many transformations to illustrate rules and principles, many of which are not reflected in the final form of the code.**
+**Note: This code does not represent a comprehensive overview 
+of CSS. The course teaches numerous rules and principles which are experimented with in code but are not contained in the final code.**
 
 ## Lessons
 * Lesson 1: Start Here
