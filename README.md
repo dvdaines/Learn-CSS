@@ -1,8 +1,8 @@
 # Learn CSS
 
-I am using this repo to save my work as I brush up on CSS by following [this course](https://youtu.be/OXGznpKZ_sA?si=jUk0oBv8MgliTzwO) from [freeCodeCamp](https://www.freecodecamp.org/).
+I am using this repo to save my work as I brush up on CSS by following [this 11 hour course](https://youtu.be/OXGznpKZ_sA?si=jUk0oBv8MgliTzwO) from [freeCodeCamp](https://www.freecodecamp.org/).
 
-** Note: if you just read my code, you'd miss a lot. Many principles and rules explained in the course are not reflected in the final form of the code. **
+**Note: if you just read the code, you'll miss a lot. It goes through many transformations to illustrate rules and principles, many of which are not reflected in the final form of the code.**
 
 ## Lessons
 * Lesson 1: Start Here
