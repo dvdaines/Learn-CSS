@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+}
+
+h1 {
+  width: 50%;
+  border: 2px dashed red;
+  font-size: 2rem; /* 2x the root default font size (set at browser level unless we override) */
+  padding: 0.5em; /* Equivalent to font size of element */
+}
+
+main {
+  width: 50vw;
+  background-color: skyblue;
+  font-size: 1rem;
+}
+
+p {
+  font-size: 1rem;
+  width: 40ch; /* Set to the width of 40 0 characters */
+}
