@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  padding: 10%;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: steelblue;
+  font-weight: 200;
+  line-height: 1.5em;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover, a:focus     {
+  /* color: hsl(190, 44%, 49%); */
+  opacity: 0.9;
+}
+
+a:active {
+  color: pink;
+}
