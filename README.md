@@ -1,4 +1,4 @@
-# Learn CSS
+# CSS Refresher
 
 I am using this repo to save my work as I brush up on CSS by following [this 11 hour course](https://youtu.be/OXGznpKZ_sA?si=jUk0oBv8MgliTzwO) from [freeCodeCamp](https://www.freecodecamp.org/) and [@gitdagray](https://github.com/gitdagray/css_course).
 
