@@ -31,4 +31,17 @@ div {
   height: 200px;
   border: 1px solid #000;
   display: grid;
+  place-content: center;
+}
+
+div:first-child {
+  background-color: dodgerblue;
+}
+
+div:nth-child(2) {
+  background-color: yellow;
+}
+
+div:nth-child(3) {
+  background-color: limegreen;
 }
