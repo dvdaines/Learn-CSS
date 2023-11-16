@@ -108,8 +108,8 @@ nav {
 }
 
 nav ul {
-  list-style-type: none;
   display: flex;
+  list-style-type: none;
   flex-flow: column nowrap;
 }
 
