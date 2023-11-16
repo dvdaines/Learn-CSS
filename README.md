@@ -1,6 +1,6 @@
 # CSS Refresher
 
-I am using this repo to save my work as I brush up on CSS by following [this 11 hour course](https://youtu.be/OXGznpKZ_sA?si=jUk0oBv8MgliTzwO) from [freeCodeCamp](https://www.freecodecamp.org/) and [@gitdagray](https://github.com/gitdagray/css_course).
+I used this repo to save my work as I brushed up on CSS by following [this 11 hour course](https://youtu.be/OXGznpKZ_sA?si=jUk0oBv8MgliTzwO) from [freeCodeCamp](https://www.freecodecamp.org/), featuring [@gitdagray](https://github.com/gitdagray/css_course).
 
 **Note: This code does not represent a comprehensive overview of what is covered in the course. Many rules and principles which are experimented with are not contained in the final code.**
 
